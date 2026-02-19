@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=y3y-tech&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3y-tech&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y3y-tech&theme=radical" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y3y-tech&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y3y-tech&theme=radical" width="48%" />
 
 </div>
-
 ---
 
 ### 🐍 My Contributions
