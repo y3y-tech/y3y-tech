@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y3y-tech&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y3y-tech&theme=gruvbox" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y3y-tech&theme=radical" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y3y-tech&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y3y-tech&theme=gruvbox" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y3y-tech&theme=gruvbox" width="48%" />
 
 </div>
 
