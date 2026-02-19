@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[🌐 y3y-tech.github.io](https://y3y-tech.github.io)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=y3y-tech)
