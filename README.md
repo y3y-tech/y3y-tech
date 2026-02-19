@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **y3y-tech/y3y-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+y3y+👋;I+build+cool+things+🛠️;Check+out+my+work+below+⬇️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yiyang+👋;I+build+cool+things+🛠️;Check+out+my+work+below+⬇️" alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+<!--
 ### 🚀 Featured Projects
 
 | Project | Description |
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 | [🔗 Project One](#) | Short description here |
 | [🔗 Project Two](#) | Short description here |
 | [🔗 Project Three](#) | Short description here |
-
+-->
 ---
 
 ### 📊 GitHub Stats
