@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+y3y+%F0%9F%91%8B;I+build+cool+things+%F0%9F%9B%A0%EF%B8%8F;Check+out+my+work+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yiyang+%F0%9F%91%8B;I+build+cool+things+%F0%9F%9B%A0%EF%B8%8F;Check+out+my+work+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
 <!--
 ### 🚀 Featured Projects
 
@@ -35,7 +34,6 @@ Here are some ideas to get you started:
 | [🔗 Project Two](#) | Short description here |
 | [🔗 Project Three](#) | Short description here |
 -->
----
 
 ### 📊 GitHub Stats
 
@@ -47,7 +45,6 @@ Here are some ideas to get you started:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y3y-tech&theme=radical" width="48%" />
 
 </div>
----
 
 ### 🐍 My Contributions
 
