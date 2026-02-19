@@ -15,5 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[🌐 y3y-tech.github.io](https://y3y-tech.github.io)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=y3y-tech)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+y3y+👋;I+build+cool+things+🛠️;Check+out+my+work+below+⬇️" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-y3y--tech.github.io-orange?style=for-the-badge)](https://y3y-tech.github.io)
+
+![Profile Views](https://komarev.com/ghpvc/?username=y3y-tech&color=orange&style=for-the-badge)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🔗 Project One](#) | Short description here |
+| [🔗 Project Two](#) | Short description here |
+| [🔗 Project Three](#) | Short description here |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=y3y-tech&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3y-tech&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+### 🐍 My Contributions
+
+<div align="center">
+  <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake.gif" />
+</div>
