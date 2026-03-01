@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 | [🔗 Project Three](#) | Short description here |
 -->
 
-### GitHub Stats
-
 ---
+
+###  📊 GitHub Stats
+
 
 <div align="center">
 <a>
@@ -51,9 +52,11 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-
-### My Contributions
+---
+### 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake.gif" />
+  <a>
+  <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake-dark.gif" />
+  </a>
 </div>
