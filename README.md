@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </a>
 
 </div>
+
 ---
+
 ### 🐍 My Contributions
 
 <div align="center">
