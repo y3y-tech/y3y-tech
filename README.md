@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a>
-  <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake-dark.gif" />
+    <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake-dark.gif#gh-dark-mode-only" />
+    <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only" />
   </a>
 </div>
