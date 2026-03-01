@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+# Howdy, I am Yiyang!
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yiyang+%F0%9F%91%8B;I+build+cool+things+%F0%9F%9B%A0%EF%B8%8F;Check+out+my+work+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" />
+<div align="center">
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-y3y--tech.github.io-orange?style=for-the-badge)](https://y3y-tech.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-y3y--tech.github.io-blue?style=for-the-badge)](https://y3y-tech.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=y3y-tech&color=orange&style=for-the-badge)
 
@@ -35,18 +35,24 @@ Here are some ideas to get you started:
 | [🔗 Project Three](#) | Short description here |
 -->
 
-### 📊 GitHub Stats
+### GitHub Stats
+
+---
 
 <div align="center">
+<a>
+<img src="https://raw.githubusercontent.com/y3y-tech/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/y3y-tech/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y3y-tech&theme=gruvbox" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y3y-tech&theme=gruvbox" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y3y-tech&theme=gruvbox" width="48%" />
+<a>
+<img src="https://raw.githubusercontent.com/y3y-tech/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/y3y-tech/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 </div>
 
-### 🐍 My Contributions
+### My Contributions
 
 <div align="center">
   <img src="https://github.com/y3y-tech/y3y-tech/blob/output/github-contribution-grid-snake.gif" />
